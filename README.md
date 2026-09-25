@@ -99,8 +99,3 @@ outdoors/       bjj/            chess/
 
 📍 Melbourne, Australia
 📧 [olexiy.tech@gmail.com](mailto:olexiy.tech@gmail.com)
-
-```bash
-$ echo "Thanks for stopping by."
-Thanks for stopping by.
-```
