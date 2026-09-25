@@ -1,10 +1,106 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olexiy
-==============================================================================================================================
+# Hi, I'm Olexiy 👋
 
-Software Engineer | Full Stack Developer | Science Enthusiast
--------------------------------------------------------------
+`````text
+                   -`                    olexiy@github
+                  .o+`                   ─────────────────────────
+                 `ooo/                   OS       Arch Linux
+                `+oooo:                  Location Melbourne, AU
+               `+oooooo:                 Role     Software Engineer
+               -+oooooo+:                Focus    Full Stack Development
+             `/:-:++oooo+:               Editor   Neovim / VS Code
+            `/++++/+++++++:              Shell    zsh
+           `/++++++++++++++:             
+          `/+++ooooooooooooo/`           Languages
+         ./ooosssso++osssssso+`          Python • TypeScript • JavaScript
+        .oossssso-````/ossssss+`         Java • SQL • C
+       -osssssso.      :ssssssso.        
+      :osssssss/        osssso+++.       Stack
+     /ossssssss/        +ssssooo/-       Angular • React • FastAPI
+   `/ossssso+/:-        -:/+osssso+-     PostgreSQL • AWS • Docker
+  `+sso+:-`                 `.-/+oso:    
+ `++:.                           `-/+/    Interests
+ .`                                 `/    Linux • Embedded • Homelab
+                                          Electronics • Science • BJJ
+`````
 
-Software Engineer/Full Stack Developer with an added strong background in biomedical sciences and expertise in Python, JavaScript/TypeScript, Java and SQL. Proficient in developing, optimising and debugging of large scale web applications, including user-interface, back-end and API integration. Experience in enhancing an existing application by developing additional custom features through reverse engineering and leveraging existing API as well as external API services. Also experienced in extraction, processing and utilisation of industrial engineering equipment data, in order to analyse their working capacity and develop analytical dashboards. Additionally, a strong foundation of scientific research skills through work in a venom research laboratory. Including surgical preparation of model tissue, experimental design and setup, extraction and studies of individual toxins from whole venom as well as data analysis and reporting. Possessing this diverse skill set allows for unique and valuable contributions to a wide spectrum of projects.
+## `$ whoami`
 
-* 🌍  I'm based in Melbourne
-* ✉️  You can contact me at [olexiy.tech@gmail.com](mailto:olexiy.tech@gmail.com)
+Software Engineer and Full Stack Developer based in **Melbourne, Australia**.
+
+I build web applications, APIs and backend systems, primarily working with **Python, TypeScript, JavaScript, SQL and Java**. My experience spans frontend development, backend architecture, API integration, databases, cloud infrastructure and industrial data systems.
+
+Before software engineering, I studied **biomedical science and pharmacology**, including research in a venom laboratory. That background still heavily influences how I approach engineering: experimentation, breaking complicated systems into smaller problems, and figuring out how things work under the hood.
+
+## `$ cat stack.txt`
+
+```yaml
+languages:
+  - Python
+  - TypeScript
+  - JavaScript
+  - Java
+  - SQL
+  - C
+
+frontend:
+  - Angular
+  - React
+  - Bootstrap
+
+backend:
+  - FastAPI
+  - REST APIs
+  - PostgreSQL
+  - SQLite
+
+cloud_devops:
+  - AWS
+  - Docker
+  - Git
+  - Linux
+
+currently_exploring:
+  - Embedded systems
+  - ESP32 / ESP-IDF
+  - Rust
+  - Self-hosting
+  - Local LLMs
+```
+
+## `$ cat background.txt`
+
+```text
+[software]
+Full-stack web development
+Backend systems and API design
+Database design and migration
+Cloud infrastructure
+Industrial equipment data processing
+Analytical dashboards
+
+[science]
+Biomedical Science
+Pharmacology
+Venom research
+Experimental design
+Data analysis
+Scientific reporting
+```
+
+## `$ ls ~/interests`
+
+```text
+linux/          embedded/       electronics/
+homelab/        science/        open-source/
+outdoors/       bjj/            chess/
+```
+
+## `$ contact --olexiy`
+
+📍 Melbourne, Australia
+📧 [olexiy.tech@gmail.com](mailto:olexiy.tech@gmail.com)
+
+```bash
+$ echo "Thanks for stopping by."
+Thanks for stopping by.
+```
